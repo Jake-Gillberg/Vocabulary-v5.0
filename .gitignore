@@ -1,0 +1,5 @@
+#environment variables, direnv
+.env*
+
+#nix build results
+result
